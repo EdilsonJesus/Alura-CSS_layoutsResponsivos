@@ -8,3 +8,8 @@
 - Usar as unidades relativas REM e EM;
 - Tipos de imagens e SVGs
 
+
+### Capitulo 03, O que foi aprendido:
+- Utilizar as unidades de viewport;
+- Identificar a diferença entre unidades absolutas e relativas;
+- Analisar as limitações físicas de dispositivos;
